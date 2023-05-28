@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### Certs ###
-!**/src/main/resources/certs/**
+src/main/resources/certs/*
